@@ -24,6 +24,6 @@
 - [x] git remote add
 - [x] git push
 - [x] git pull
-- [] git branch
+- [ ] git branch
 
 Виконав: **Отовчиць Ілля**
