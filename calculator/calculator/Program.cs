@@ -13,5 +13,6 @@ class Program
         int sum = num1 + num2;
 
         Console.WriteLine($"Сума: {sum}");
+        Console.ReadLine();
     }
 }
